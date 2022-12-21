@@ -273,7 +273,7 @@ At least 75% of the population of Shopping Cart Database Quantity ordered in Aus
 
 <br>
 
-## **Result :diamond_shape_with_a_dot_inside**
+## **Result :bangbang:**
 
 ### **Which products were sold the most in the last month?**
 
