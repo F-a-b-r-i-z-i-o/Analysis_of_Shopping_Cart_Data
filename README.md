@@ -1,4 +1,4 @@
-# Analysis_of_Shopping_Cart_Data
+# Analysis of Shopping Cart Data
 
 ## **Index :currency_exchange:**
 
