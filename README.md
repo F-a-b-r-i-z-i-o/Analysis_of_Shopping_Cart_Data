@@ -265,7 +265,7 @@ Find the proportion that lies in between two standard deviation ( $𝜎$ ) from 
 
 At least 75% of the population of Shopping Cart Database Quantity ordered in Australia has a total quantity range from 0−4 quantity ordered.
 
-![quant2](Shopping_Card_Analysis/img/qunatity2.png)
+![quant2](Shopping_Card_Analysis/img/quntity2.png)
 
 <br>
 
