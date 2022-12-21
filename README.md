@@ -2,11 +2,11 @@
 
 ## **Index :currency_exchange:**
 
-- [**Introduction**](#introduction)
+- [**Introduction**](#introduction-australia)
 - [**Installation**](#installation)
 - [**Execution**](#execution)
-- [**Dataset Composition**](#dataset-composition)
-- [**Data Analysis and Visualization (EDA)**](#data-analysis-and-visualization-eda)
+- [**Dataset Composition**](#dataset-composition-restroom)
+- [**Data Analysis and Visualization (EDA)**](#data-analysis-and-visualization-eda-atm)
   - [**Univariate Data Analysis**](#univariate-data-analysis)
     - [**Sales**](#sales)
     - [**Age**](#age)
@@ -15,11 +15,11 @@
   - [**Price per-unit**](#price-per-unit)
   - [**Total price**](#total-price)
   - [**Quantity2**](#quantity2)
-- [**Result**](#result)
+- [**Result**](#result-bangbang)
   - [**Which products were sold the most in the last month?**](#which-products-were-sold-the-most-in-the-last-month)
-  - [**Understanding Customer demographics and their preferences**](#understanding-customer-demographics-and-their-preferences)
-  - [**State with highest number of Sales**](#state-with-highest-number-of-sales)
-  - [**Top 20 city with high number of sales**](#top-20-city-with-high-number-of-sales)
+  - [**Understanding Customer demographics and their preferences**](#understanding-customer-demographics-and-their-preferences-rainbow_flag)
+  - [**State with highest number of Sales**](#state-with-highest-number-of-sales-heavy_dollar_sign)
+  - [**Top 20 city with high number of sales**](#top-20-city-with-high-number-of-sales-heavy_check_mark)
 
 <hr>
 
