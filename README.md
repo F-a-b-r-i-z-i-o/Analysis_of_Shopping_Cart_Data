@@ -291,7 +291,7 @@ At least 75% of the population of Shopping Cart Database Quantity ordered in Aus
 
 <br>
 
-![preferences2](Shopping_Card_Analysis/img/preferences1.png)
+![preferences2](Shopping_Card_Analysis/img/preferences.png)
 
 <br>
 
