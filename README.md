@@ -55,7 +55,7 @@ To execute, simply run the project **main** with the command:
 
 Summary of the data set so far. These are some points we have:
 
-- Customer Order and product data:
+- **Customer Order and product data:**
 
   - We have a total of 1000 rows and 22 columns
   - There are no missing values
@@ -73,7 +73,7 @@ Summary of the data set so far. These are some points we have:
   - color : 7 uniqueness variable(s)
   - description : 1000 variable(s) of uniqueness
 
-- Sales data:
+- **Sales data:**
   - There are no missing values
   - There are no uniqueness values
 
