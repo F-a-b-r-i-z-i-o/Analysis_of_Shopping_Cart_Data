@@ -2,24 +2,26 @@
 
 ## **Index :currency_exchange:**
 
-- [**Introduction**](#introduction-australia)
-- [**Installation**](#installation)
-- [**Execution**](#execution)
-- [**Dataset Composition**](#dataset-composition-restroom)
-- [**Data Analysis and Visualization (EDA)**](#data-analysis-and-visualization-eda-atm)
-  - [**Univariate Data Analysis**](#univariate-data-analysis)
-    - [**Sales**](#sales)
-    - [**Age**](#age)
-    - [**Price**](#price)
-    - [**Quantity**](#quantity)
-  - [**Price per-unit**](#price-per-unit)
-  - [**Total price**](#total-price)
-  - [**Quantity2**](#quantity2)
-- [**Result**](#result-bangbang)
-  - [**Which products were sold the most in the last month?**](#which-products-were-sold-the-most-in-the-last-month)
-  - [**Understanding Customer demographics and their preferences**](#understanding-customer-demographics-and-their-preferences-rainbow_flag)
-  - [**State with highest number of Sales**](#state-with-highest-number-of-sales-heavy_dollar_sign)
-  - [**Top 20 city with high number of sales**](#top-20-city-with-high-number-of-sales-heavy_check_mark)
+- [Analysis of Shopping Cart Data](#analysis-of-shopping-cart-data)
+  - [**Index :currency\_exchange:**](#index-currency_exchange)
+  - [**Introduction :australia:**](#introduction-australia)
+  - [**Installation**](#installation)
+  - [**Execution**](#execution)
+  - [**Dataset Composition :restroom:**](#dataset-composition-restroom)
+  - [**Data Analysis and Visualization (EDA) :atm:**](#data-analysis-and-visualization-eda-atm)
+    - [**Univariate Data Analysis**](#univariate-data-analysis)
+      - [Sales](#sales)
+      - [Age](#age)
+      - [Price](#price)
+      - [Quantity](#quantity)
+      - [Price Per-Unit](#price-per-unit)
+      - [Total Price](#total-price)
+      - [Quantity2](#quantity2)
+  - [**Result :bangbang:**](#result-bangbang)
+    - [**Which products were sold the most in the last month?**](#which-products-were-sold-the-most-in-the-last-month)
+  - [**Understanding Customer demographics and their preferences :rainbow\_flag:**](#understanding-customer-demographics-and-their-preferences-rainbow_flag)
+    - [**State with highest number of Sales :heavy\_dollar\_sign:**](#state-with-highest-number-of-sales-heavy_dollar_sign)
+    - [**Top 20 city with high number of sales :heavy\_check\_mark:**](#top-20-city-with-high-number-of-sales-heavy_check_mark)
 
 <hr>
 
@@ -27,17 +29,11 @@
 
 This project seeks to apply Data Analysis skills to a shopping cart dataset of Australian State.
 
-<br>
-
 <hr>
-
-<br>
 
 ## **Installation**
 
 To install the project, it is advisable to use a virtual enviroment, installing all dependencies in the **requirementes.txt**
-
-<br>
 
 ## **Execution**
 
@@ -45,11 +41,7 @@ To execute, simply run the project **main** with the command:
 
 `python3 main.py`
 
-<br>
-
 <hr>
-
-<br>
 
 ## **Dataset Composition :restroom:**
 
@@ -77,14 +69,10 @@ Summary of the data set so far. These are some points we have:
   - There are no missing values
   - There are no uniqueness values
 
-All data types in this data are Int 64
+All data types in this data are Int 64.
 Next, we will try to do some explorations and visualizations.
 
-<br>
-
 <hr>
-
-<br>
 
 ## **Data Analysis and Visualization (EDA) :atm:**
 
