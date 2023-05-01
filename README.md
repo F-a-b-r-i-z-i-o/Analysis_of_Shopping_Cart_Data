@@ -273,8 +273,6 @@ At least 75% of the population of Shopping Cart Database Quantity ordered in Aus
 
 ![preferences1](Shopping_Card_Analysis/img/preferences1.png)
 
-<br>
-
 [Read more about the different types of gender here](https://teentalk.ca/learn-about/gender-identity/#:~:text=There%20are%20many%20different%20gender,identities%20then%20we've%20listed.)
 
 <br>
@@ -285,8 +283,6 @@ At least 75% of the population of Shopping Cart Database Quantity ordered in Aus
 
 Quite suprising how male managed to shop more than females...lol
 
-<br>
-
 ### **State with highest number of Sales :heavy_dollar_sign:**
 
 ![state](Shopping_Card_Analysis/img/states.png)
@@ -294,8 +290,6 @@ Quite suprising how male managed to shop more than females...lol
 <br>
 
 **South Australia** took first place with the highest total sales of 907.400 (Dollar Australia), and Queensland took second place with sales of 862.965 (Dollar Australia).
-
-<br>
 
 ### **Top 20 city with high number of sales :heavy_check_mark:**
 
